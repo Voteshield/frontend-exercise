@@ -9,20 +9,20 @@ Create a standalone "Word Lookup" component. This component should provide an in
 ![Example interface GIF](docs/images/example-interface.gif)
 
 - Should utilize whatever API you prefer, but an easy, free one is [dictionaryapi.dev](https://dictionaryapi.dev/).
-- Use whatever component framework you like, but explain any choice you make that is not popular or easily recognizable.
+- Use whichever component framework you like, but explain any choice you make that is not popular or easily recognizable.
 - Feel free to utilize a design system such as Bootstrap, but basic, reasonable design will still be assessed.
-- You should not be afraid to use existing tools, libraries, templates, etc, but please document any outside resources that are used that are not explicitly referenced.
-- Assume this project will be used in a larger project, which implies it should be easily installable and have instructions on how to use and install it.
+- You should not be timid about using existing tools, libraries, templates, etc, but please document any outside resources that are used that are not explicitly referenced.
+- Assume this component will be used in a larger project, which implies things like it should be easily installable and include instructions.
 - Please provide brief explanation of choices made throughout the project in the `README.md` or a `NOTES.md` file.
 - Please see the Goals section to understand what other implicit expectations there are, and please feel free to ask questions before starting.
 
-## Timeframe
+## Time frame
 
-Ideally this exercise should take about an hour or two. If you feel you could do more, please put information in the that briefly explains what more you would do given more time.
+Ideally this exercise should take about about two hours. If you feel you could do more regardless of the time frame, please put information in the `README.md` or a `NOTES.md` file that briefly explains what more you would do given extra time.
 
 ## Goals
 
-The goal of this exercise to allow you to demonstrate not just your ability to produce high-quality, accessible, cross-device code but to show your ability to write code that fits into a larger system and used by others on a team or externally.
+The goal of this exercise is to allow you to demonstrate not just your ability to produce high-quality, accessible, cross-device code but to show your ability to write code that fits into a larger system and used by others on a team or externally.
 
 ## Submission
 

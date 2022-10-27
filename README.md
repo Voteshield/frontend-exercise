@@ -18,7 +18,7 @@ Create a standalone "Word Lookup" component. This component should provide an in
 
 ## Time frame
 
-Ideally this exercise should take about about two hours. If you feel you could do more regardless of the time frame, please put information in the `README.md` or a `NOTES.md` file that briefly explains what more you would do given extra time.
+You should block off about 2 hours for this exercise. If you feel you could do more regardless of the time frame, please put information in the `README.md` or a `NOTES.md` file that briefly explains what more you would do given extra time.
 
 ## Goals
 

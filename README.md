@@ -4,16 +4,22 @@ VoteShield Frontend Engineer job search take-home exercise.
 
 ## Instructions
 
-Create a standalone, reusable "Word Lookup" component. This component should provide an input that looks up the definition of a word provided by an API and then display the definition.
+Create a reusable, accessible, mobile-friendly "Word Lookup" component. This component should provide an input that looks up the definition of a word provided by an API and then displays the definition.
 
+- There are no constraints on frameworks or libraries you can use.
 - Should utilize whatever API you prefer, but an easy, free one is [dictionaryapi.dev](https://dictionaryapi.dev/).
-- Please provide brief explanation of choices made throughout the project in the `README.md` or a `NOTES.md` file.
+- Should provide an easy way to run the component in isolation locally.
+- Should have some minimal design and styling; feel free to assume/include a larger existing design system such as Bootstrap.
+- Please provide brief explanation of assumptions and choices made throughout the project in the `README.md` or a `NOTES.md` file.
+- See the "Goal" section for more implicit requirements.
 
-## Goals
+## Goal
 
-The goal of this exercise is to allow you to demonstrate not just your ability to produce high-quality, accessible, cross-device code but to also show your ability to write code that fits into a larger system and used by others on a team or externally.
+**The goal of this exercise is to allow you to demonstrate your ability to design basic, usable, accessible, cross-device interfaces, and your ability to write high-quality code that fits into a larger system and can easily be used by others.**
 
-This exercise is purposefully open-ended and vague to allow for creative problem-solving, though there is a number of implicit expectations set in the "goals" statement above. Do not hesitate to ask questions if you feel you can't make decisions without external input; in a practical environment, user input and iteration would be critical to success.
+This exercise is purposefully a bit open-ended to allow for creative problem-solving and to understand your previous experience. There is a number of expectations set in the "Goal" statement above; we understand that each person may have assumptions about those requirements, but our goal is to assess those assumptions. We encourage you to communicate any assumptions as suggested in the "Instructions". There will be time to discuss your solution if you move forward in the hiring process.
+
+Do not hesitate to ask questions about the exercise if you feel you need more guidelines; we realize that in a practical environment, user input and iteration would be critical to success.
 
 ## Time-frame
 
